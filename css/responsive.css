@@ -1,8 +1,11 @@
+/*Tanmoy CSS */
+
 @media only screen and (max-width: 767px) {
-    .tab-section  .container{
+    .tab-section .container {
         padding-top: 50px;
     }
-    .tab-section ul{
+
+    .tab-section ul {
         text-align: center;
     }
 
@@ -10,16 +13,119 @@
         width: 100%;
         height: auto;
         object-fit: cover;
-    } 
-    .tab-section .tab-content h2{
+    }
+
+    .tab-section .tab-content h2 {
         text-align: center;
     }
 
     .tab-section iframe {
         width: 100%;
     }
-    .eventsec .watchbtn {
 
+    .eventsec .watchbtn {
         gap: 10px;
+    }
+
+    .news {
+        padding: 38px 0;
+    }
+
+
+    .testimonials {
+        padding: 50px 0;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    .imgetext-section .imgtxt-wrapper .container {
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    header .navbar-collapse {
+        width: 100%;
+        background-color: rgb(51 51 51 / 93%);
+    }
+}
+
+/*Tanmoy CSS END */
+
+/* Ria Nandi home Responsive */
+@media (max-width: 767px) {
+
+
+    .joinus-section .join-wrapper .bottom-content h3 {
+
+        font-size: 16px;
+    }
+
+    .imgetext-section .bottom-content p {
+
+        font-size: 28px;
+    }
+
+    .eventsec .eventvideo iframe {
+        height: 406px;
+    }
+
+    .contactsec .card {
+        margin: 18px 2px;
+    }
+
+    .cntctsec .contact-info-content br {
+        display: none;
+    }
+
+    .contact-info-content p {
+        font-size: 1.5em;
+    }
+
+    .section-header h2 {
+        font-size: 2em;
+    }
+
+    .contact-form {
+        padding: 10px;
+    }
+
+    .contactsec .card {
+        padding: 10px 20px;
+    }
+
+    .contactsec .card h2 {
+        margin-bottom: 0;
+    }
+
+    .content-section {
+        padding: 50px 0;
+    }
+
+    .btn-dark {
+        padding: 20px 22px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 1023px) {
+    header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 12px;
+    }
+
+    .joinus-section strong {
+        font-size: 19px;
+    }
+
+    .tab-section .tab-content img {
+        width: 98%;
+    }
+
+    .content-section .maps iframe {
+        width: 100%;
     }
 }

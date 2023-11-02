@@ -22,10 +22,10 @@
 
     <div class="footer-inner">
     <div class="text-center">
-      FIVE-FOLD CHURCH  <a href="mailto:info@5fchurch.org">INFO@5FCHURCH.ORG</a>
+      THE GREATER WORKS MINISTRY  <a href="mailto:info@thegreaterworksministry.org">INFO@THEGREATERWORKSMINISTRY.ORG</a>
     </div>
     <div class="text-center sqs-layout">
-      FIVE-FOLD CHURCH - 300 S. Mission rd Los Angeles CA 90033
+      THE GREATER WORKS MINISTRY - 300 S. Mission rd Los Angeles CA 90033
     </div>
     </div>
   </footer>
