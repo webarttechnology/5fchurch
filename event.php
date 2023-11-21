@@ -16,18 +16,19 @@
 <section class="eventsec py-5">
     <div class="container">
         <div class="row">
+            <div class="col-12">
+                <center><h1>Comming Soon</h1></center>
+            </div>
+        </div>
+        <!-- <div class="row">
             <div class="col-md-4">
                 <div class="eventvideo">
-                    <iframe src="https://www.youtube.com/embed/t0Q2otsqC4I?si=YeMNlyJ_ofPCCE5S"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen>
-                    </iframe>
+                <img src="images/image-2.jpg" alt="" class="w-100">
                 </div>
             </div>
             <div class="col-md-8">
                 <div class="videohdng">
-                    <h2>Video Title</h2>
+                    <h2>Event Title</h2>
                 </div>
                 <div class="shrtdscrpt">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate rerum adipisci quod laborum
@@ -63,11 +64,7 @@
             </div>
             <div class="col-md-4">
                 <div class="eventvideo">
-                    <iframe src="https://www.youtube.com/embed/t0Q2otsqC4I?si=YeMNlyJ_ofPCCE5S"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen>
-                    </iframe>
+                <img src="images/image-2.jpg" alt="" class="w-100">
                 </div>
             </div>
         </div>
@@ -79,7 +76,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 

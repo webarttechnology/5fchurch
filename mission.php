@@ -7,31 +7,41 @@
     </div>
 </section>
 
-<section class="tab-section">
+<section class="aboutSec p-v-50">
   <div class="container">
     <div class="row">
-      <div class="col-md-3">
-    <ul id="myDIV">
-      <h4>about</h4>
-      <li class="buttn"><a class="dropdown-item" href="#">mission</a></li>
-      <li class="buttn"><a class="dropdown-item" href="leadership.php">leadership</a></li>
-      <li class="buttn"><a class="dropdown-item" href="about-contact.php">contact</a></li>
-      <li class="buttn"><a class="dropdown-item" href="give.php">give</a></li>
-      <li class="buttn"><a class="dropdown-item" href="outreach.php">outreach</a></li>
-    </ul>
-    </div>
-    <div class="col-md-9" id="mission">
-      <div class="tab-content">
-        <h4>mission</h4>
-        <p>Our mission is to advance the kingdom of God by preaching the gospel of Jesus Christ with the demonstration of God's power and to empower disciples to be mature, powerful vessels of God. Our vision is to equip and edify the body of Christ through the five offices of ministry according to Ephesians 4:11 (Apostles, Prophets, Evangelists, Pastors and Teachers). We are committed to raise up revival carriers, who burn passionately for Jesus.</p>
-        <img src="images/about/abt-image-1.jpg">
-        <img src="images/about/abt-image-2.jpg">
-        <img src="images/about/abt-image-3.jpg">
-        <img src="images/about/abt-image-4.jpg">
+      <div class="col-sm-7">
+      <h3><i class="fas fa-angle-right"></i> Who We Are</h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
+
+      <h3><i class="fas fa-angle-right"></i> Vision</h3>
+      <p>Vision:- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
+
+      <h3><i class="fas fa-angle-right"></i> Mission</h3>
+      <p>Mission:- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
+
+      <h3><i class="fas fa-angle-right"></i> Statement of Beliefs</h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
+
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
+
+      <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
+
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
+
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+      </div>
+      <div class="col-sm-5">
+        <div class="box text-center">
+        <h3>Our Pastor</h3>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+
+        </div>
       </div>
     </div>
-    </div>
-</div>
+  </div>
 </section>
 
 

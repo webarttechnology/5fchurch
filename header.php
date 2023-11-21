@@ -38,23 +38,24 @@
         <li class="nav-item dropdown">
           <a class="nav-link" href="mission.php">About Us</a>
 
-          <ul>
+          <!-- <ul>
             <li class="buttn"><a class="dropdown-item" href="mission.php">mission</a></li>
             <li class="buttn"><a class="dropdown-item" href="leadership.php">leadership</a></li>
             <li class="buttn"><a class="dropdown-item" href="about-contact.php">contact</a></li>
             <li class="buttn"><a class="dropdown-item" href="give.php">give</a></li>
             <li class="buttn"><a class="dropdown-item" href="outreach.php">outreach</a></li>
-          </ul>
+          </ul> -->
         </li>
         <li class="nav-item">
           <a class="nav-link" href="visitus.php">Visit Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="testimonials.php">Testimonials</a>
+          <a class="nav-link" href="good-news.php">The Good News</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="good-news.php">Good News</a>
+          <a class="nav-link" href="testimonials.php">Testimonials / miracles</a>
         </li>
+        
         <li class="nav-item">
           <a class="nav-link" href="event.php">Event</a>
         </li>

@@ -22,7 +22,7 @@
             </div>
             <div class="col-md-6">
                 <div class="card">
-                    <h2><a href="email:info@thegreaterworksministry.com">Email: info@thegreaterworksministry.com</a></h2>
+                    <h2><a href="email:info@email.com">Email: info@gmail.com</a></h2>
                 </div>
             </div>
         </div>
@@ -79,7 +79,7 @@
 
                         <div class="contact-info-content">
                             <h4>Email</h4>
-                            <p>info@thegreaterworksministry.com</p>
+                            <p>info@gmail.com</p>
                         </div>
                     </div>
                 </div>
