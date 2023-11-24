@@ -16,7 +16,8 @@
                 <h2><strong>SUNDAYS 1PM / PST</strong></h2>
             <ul>
                 <li><p><strong>300 S. MISSION RD LOS ANGELES 90033</strong></p></li>
-                <li><p><strong>LOOK FOR THE 5F CHURCH SIGNS!</strong></p></li>
+                <li><p><strong>LOOK FOR THE THE GREATER WORKS MINISTRY
+ SIGNS!</strong></p></li>
                 <li><p><strong>THERE IS FREE STREET PARKING</strong></p></li>
                 <li><p><strong>(PLEASE MAKE SURE NOT TO PARK IN FRONT OF LOADING DOCKS AND LOOK OUT FOR “NO PARKING” SIGNS IN FRONT OF ADJACENT BUILDINGS)</strong></p></li>
                 <li><p><strong><em>Please note that every Sunday service is filmed for the Glory of God and the work of the Kingdom! If you would prefer to not be filmed please be aware of the cameras positioning as the service progresses.</em></strong></p></li>

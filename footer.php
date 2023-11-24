@@ -22,20 +22,18 @@
 
     <div class="footer-inner">
     <div class="text-center">
-      FIVE-FOLD CHURCH  <a href="mailto:info@5fchurch.org">INFO@5FCHURCH.ORG</a>
+      THE GREATER WORKS MINISTRY
+  <a href="mailto:info@5fchurch.org">INFO@THEGREATERWORKSMINISTRY.ORG</a>
     </div>
     <div class="text-center sqs-layout">
-      FIVE-FOLD CHURCH - 300 S. Mission rd Los Angeles CA 90033
+      THE GREATER WORKS MINISTRY
+ - 300 S. Mission rd Los Angeles CA 90033
     </div>
     </div>
   </footer>
     
 
-
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>-->
   
 
 
