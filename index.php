@@ -100,7 +100,7 @@
     </div>
 </section>
 
-<section style="background:#eee" class="p-v-50 abouts">
+<!-- <section style="background:#eee" class="p-v-50 abouts">
     <div class="container">
         <div class="row text-center">
             <div class="col-12"><h2>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h2></div>
@@ -133,26 +133,26 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="joinus-section">
     <div class="join-wrapper">
         <div class="container">
             <div class="top-content text-center mt-5">
-            <h1><strong>JOIN US ON SUNDAYS AT OUR NEW LOCATION</strong></h1>
-            <h2><strong>SUNDAYS - 1PM</strong></h2>
+            <h1><strong>Coming Soon at Rivertowne Movie Theater</strong></h1>
+            <!-- <h2><strong>SUNDAYS - 1PM</strong></h2>
             <ul>
                 <li><p><strong>300 S. Mission rd Los Angeles 90033 </strong></p></li>
                 <li><p><strong>LOOK FOR THE THE GREATER WORKS MINISTRY
  SIGNS! </strong></p></li>
                 <li><p><strong>There is free street parking </strong></p></li>
                 <li><p><strong>(PLEASE MAKE SURE NOT TO PARK IN FRONT OF LOADING DOCKS AND LOOK OUT FOR “NO PARKING” SIGNS IN FRONT OF ADJACENT BUILDINGS) </strong></p></li>
-            </ul>
+            </ul> -->
             </div>
             <div class="row justify-content-center">
                 <div class="col-sm-10">
                     <div class="bottom-content">
-                    <img src="images/bottom-image.png">
+                    <img src="images/worship-rentals-promo.jpg">
                         <h3>If you can’t come in person,<br>join us online on 
                             <a href="https://www.instagram.com/5fchurch/">instagram</a>,
                             <a href="https://www.youtube.com/c/ApostleKathrynKrick">Youtube</a>,
@@ -168,24 +168,14 @@
     </div>
 </section>
 
-<section class="parallax p-v-50" style="background: url(images/parallax-bg.jpg) no-repeat; background-attachment: fixed;">
+<!-- <section class="parallax p-v-50" style="background: url(images/parallax-bg.jpg) no-repeat; background-attachment: fixed;">
     <div class="container">
         <div class="row text-center justify-content-center">
             <div class="col-12">
                 <h2>What do people say about Us?</h2>
             </div>
             <div class="col-12 col-sm-10">
-                <!-- Carousel -->
                 <div id="demo" class="carousel slide" data-bs-ride="carousel">
-
-                <!-- Indicators/dots -->
-                <!-- <div class="carousel-indicators">
-                <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
-                <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
-                <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
-                </div> -->
-
-                <!-- The slideshow/carousel -->
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <center>
@@ -207,7 +197,6 @@
                     </div>
                 </div>
 
-                <!-- Left and right controls/icons -->
                 <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon"></span>
                 </button>
@@ -218,7 +207,8 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <?php include("footer.php") ?>
 
+z
