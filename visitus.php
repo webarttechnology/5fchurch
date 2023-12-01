@@ -3,14 +3,15 @@
 <section class="cmn-banner">
     <div class="color-overlay"></div>
     <div class="bannr-inner">
-    <img src="images/visit-banner.jpg" alt="visit-banner.jpg">
+    <img src="images/about/about-banner.jpeg" alt="visit-banner.jpg">
     </div>
 </section>
 
 <section class="content-section">
     <div class="container">
 <div class="top-content">
-            <h3><strong>VISIT US AT FIVE-FOLD CHURCH & ENCOUNTER THE POWER OF THE HOLY SPIRIT!</strong>
+        <h1>Coming Soon at Rivertowne Movie Theater</h1>
+            <!-- <h3><strong>VISIT US AT FIVE-FOLD CHURCH & ENCOUNTER THE POWER OF THE HOLY SPIRIT!</strong>
 </h3>
             <h1><strong>JOIN US EVERY SUNDAY!</strong></h2>
                 <h2><strong>SUNDAYS 1PM / PST</strong></h2>
@@ -31,7 +32,7 @@ She releases powerful prophetic messages weekly that will empower you & God does
 
     <div class="maps">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.982072375349!2d-118.22956312428391!3d34.0443309731599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c61651952851%3A0x5df151d17bac643a!2s300%20S%20Mission%20Rd%2C%20Los%20Angeles%2C%20CA%2090033%2C%20USA!5e0!3m2!1sen!2sin!4v1698749630165!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
+    </div> -->
          </div>   
     </div>
 </section>

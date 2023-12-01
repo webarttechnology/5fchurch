@@ -4,16 +4,16 @@
       <!-- Section: Social media -->
         <ul class="icons">
             <li>
-        <a class="btn" href="https://www.facebook.com/5fchurch" role="button" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        <a class="btn" href="#" role="button" target="_blank"><i class="fab fa-facebook-f"></i></a>
         </li>
         <li>
         <a class="btn" href="https://www.youtube.com/channel/UCYHO1g5-Hz4TBelH_L7xpjg" role="button" target="_blank"><i class="bi bi-youtube"></i></a>
         </li>
         <li>
-        <a class="btn" href="https://www.instagram.com/5fchurch/" role="button" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a class="btn" href="#" role="button" target="_blank"><i class="fab fa-instagram"></i></a>
         </li>
         <li>
-        <a class="btn" href="https://twitter.com/fivefoldchurch" role="button" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a class="btn" href="#" role="button" target="_blank"><i class="fab fa-twitter"></i></a>
         </li>
         </ul>
       <!-- Section: Social media -->
@@ -23,7 +23,7 @@
     <div class="footer-inner">
     <div class="text-center">
       THE GREATER WORKS MINISTRY
-  <a href="mailto:info@5fchurch.org">INFO@THEGREATERWORKSMINISTRY.ORG</a>
+  <a href="mailto:info@greaterworksministry.org">INFO@THEGREATERWORKSMINISTRY.ORG</a>
     </div>
     <div class="text-center sqs-layout">
       THE GREATER WORKS MINISTRY

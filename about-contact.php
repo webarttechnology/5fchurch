@@ -23,8 +23,8 @@
     <div class="col-md-9" id="mission">
       <div class="tab-content">
         <h2>CONTACT US</h2>
-        <p class="mail-text"><strong>E-mail: info@5fchurch.org</strong></p>
-        <p>If you’d like to join our mailing list where we send empowerment and updates fill out the form share with us you’d like to join our e-mail list or send an e-mail to info@5fchurch.org.</p>
+        <p class="mail-text"><strong>E-mail: info@greaterworksministrychurch.org</strong></p>
+        <p>If you’d like to join our mailing list where we send empowerment and updates fill out the form share with us you’d like to join our e-mail list or send an e-mail to info@greaterworksministrychurch.org.</p>
 
         <form class="Contact-form">
         <div class="row g-3">

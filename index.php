@@ -154,7 +154,7 @@
                     <div class="bottom-content">
                     <img src="images/worship-rentals-promo.jpg">
                         <h3>If you can’t come in person,<br>join us online on 
-                            <a href="https://www.instagram.com/5fchurch/">instagram</a>,
+                            <a href="#">instagram</a>,
                             <a href="https://www.youtube.com/c/ApostleKathrynKrick">Youtube</a>,
                             <a href="https://www.facebook.com/apostlekathrynkrick">facebook</a>,
                             or
@@ -210,5 +210,3 @@
 </section> -->
 
 <?php include("footer.php") ?>
-
-z

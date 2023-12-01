@@ -5,7 +5,7 @@
 <section class="cmn-banner">
     <div class="color-overlay"></div>
     <div class="bannr-inner">
-        <img src="images/visit-banner.jpg" alt="visit-banner.jpg">
+    <img src="images/about/about-banner.jpeg" alt="visit-banner.jpg">
     </div>
 </section>
 
@@ -17,9 +17,11 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <center><h1>Comming Soon</h1></center>
+                <center><h1>Coming Soon at Rivertowne Movie Theater</h1></center>
             </div>
         </div>
+
+
         <!-- <div class="row">
             <div class="col-md-4">
                 <div class="eventvideo">

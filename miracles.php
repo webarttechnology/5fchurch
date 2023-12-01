@@ -15,7 +15,7 @@
             <div class="col-md-12">
                 <div class="btns text-center">
                     <a href="https://www.youtube.com/playlist?list=PLX3SBMW-XlAjTO3WkFgAzJDj2dOkKZlOB" class="btn-dark">
-                        MIRACLES AT 5F CHURCH
+                        MIRACLES AT GREATER WORKS MINISTRY CHURCH
                     </a>
                 </div>
                 <div class="sec-title text-center">

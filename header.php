@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Greater works ministry church</title>
     
 
     <!-- bootstrap -->
@@ -25,38 +25,38 @@
     
     <!--site fonts-->
     <style>
-    @font-face {
-        font-family: 'Proxima Nova Rg';
-        src: url('fonts/ProximaNova-Regular.woff2') format('woff2'),
-            url('fonts/ProximaNova-Regular.woff') format('woff');
-        font-weight: normal;
-        font-style: normal;
-        font-display: swap;
-    }
-    @font-face {
-        font-family: 'Adobe Garamond Pro';
-        src: url('fonts/AGaramondPro-Bold.woff2') format('woff2'),
-            url('fonts/AGaramondPro-Bold.woff') format('woff'),
-        font-weight: bold;
-        font-style: normal;
-        font-display: swap;
-    }
-    @font-face {
-        font-family: 'Adobe Garamond Pro';
-        src: url('fonts/AGaramondPro-Regular.woff2') format('woff2'),
-            url('fonts/AGaramondPro-Regular.woff') format('woff'),
-        font-weight: normal;
-        font-style: normal;
-        font-display: swap;
-    }
-    @font-face {
-        font-family: 'Adobe Garamond Pro';
-        src: url('AGaramondPro-Semibold.woff2') format('woff2'),
-            url('AGaramondPro-Semibold.woff') format('woff'),
-        font-weight: 600;
-        font-style: normal;
-        font-display: swap;
-    }
+      @font-face {
+          font-family: 'Proxima Nova Rg';
+          src: url('fonts/ProximaNova-Regular.woff2') format('woff2'),
+              url('fonts/ProximaNova-Regular.woff') format('woff');
+          font-weight: normal;
+          font-style: normal;
+          font-display: swap;
+      }
+      @font-face {
+          font-family: 'Adobe Garamond Pro';
+          src: url('fonts/AGaramondPro-Bold.woff2') format('woff2'),
+              url('fonts/AGaramondPro-Bold.woff') format('woff'),
+          font-weight: bold;
+          font-style: normal;
+          font-display: swap;
+      }
+      @font-face {
+          font-family: 'Adobe Garamond Pro';
+          src: url('fonts/AGaramondPro-Regular.woff2') format('woff2'),
+              url('fonts/AGaramondPro-Regular.woff') format('woff'),
+          font-weight: normal;
+          font-style: normal;
+          font-display: swap;
+      }
+      @font-face {
+          font-family: 'Adobe Garamond Pro';
+          src: url('AGaramondPro-Semibold.woff2') format('woff2'),
+              url('AGaramondPro-Semibold.woff') format('woff'),
+          font-weight: 600;
+          font-style: normal;
+          font-display: swap;
+      }
     </style>
 </head>
 <body>
