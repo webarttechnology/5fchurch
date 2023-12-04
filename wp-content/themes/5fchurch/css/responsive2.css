@@ -1,0 +1,25 @@
+@media only screen and (max-width: 767px) {
+    .tab-section  .container{
+        padding-top: 50px;
+    }
+    .tab-section ul{
+        text-align: center;
+    }
+
+    .tab-section .tab-content img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    } 
+    .tab-section .tab-content h2{
+        text-align: center;
+    }
+
+    .tab-section iframe {
+        width: 100%;
+    }
+    .eventsec .watchbtn {
+
+        gap: 10px;
+    }
+}
